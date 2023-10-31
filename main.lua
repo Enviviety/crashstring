@@ -16,6 +16,8 @@ and...
                                                                     
 ]]
 
+-- lol
+
 local PopupFrame = Instance.new("ScreenGui")
 local Popup = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
